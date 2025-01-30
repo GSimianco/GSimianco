@@ -12,5 +12,3 @@
 
 
 </div><br/>
-
-Iniciante na área de programação, adoro tecnologia e atualmente trabalho como Analista de Infraestrutrua de TI.
