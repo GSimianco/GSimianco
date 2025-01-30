@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Gabriel Luis Simianco 🎃
+### Olá! Bem vindo ao meu perfil do Github
 
 ![Simianco GitHub stats](https://github-readme-stats.vercel.app/api?username=GSimianco&show_icons=true&theme=radical)
 
